@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -std=c++11 -rdynamic CMakeFiles/server.dir/muduo_server.cpp.o -o /root/chatRoom/example/clusterRoomForCMakeTest/bin/server  -lmuduo_net -lmuduo_base -lpthread 

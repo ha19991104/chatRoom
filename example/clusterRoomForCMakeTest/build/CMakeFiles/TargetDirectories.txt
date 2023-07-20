@@ -1,0 +1,5 @@
+/root/chatRoom/example/clusterRoomForCMakeTest/build/CMakeFiles/edit_cache.dir
+/root/chatRoom/example/clusterRoomForCMakeTest/build/CMakeFiles/rebuild_cache.dir
+/root/chatRoom/example/clusterRoomForCMakeTest/build/testfomuduo/CMakeFiles/server.dir
+/root/chatRoom/example/clusterRoomForCMakeTest/build/testfomuduo/CMakeFiles/edit_cache.dir
+/root/chatRoom/example/clusterRoomForCMakeTest/build/testfomuduo/CMakeFiles/rebuild_cache.dir
